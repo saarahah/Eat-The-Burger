@@ -2,9 +2,9 @@
 	{{burger_name}}
 
 	<button class="change-devour" data-id="{{id}}" data-newdevour="{{devour}}">
-		{{#if devour}}Devour TIME!
-		{{else}}None
-		{{/if}}
+		{{#unless devour}}Eat!
+		{{else}}Done
+		{{/unless}}
 	</button>
 
 
