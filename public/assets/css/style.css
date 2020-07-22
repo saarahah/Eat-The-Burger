@@ -1,8 +1,17 @@
-/* .jumbotron, .jumbotron-fluid {
+.jumbotron {
+  padding-bottom: 20%;
+  background-image: url(./images/jumbocyberg.jpg);
+  background-size: cover;
+  background-clip: border-box;
+  background-position: center;
+  /* text-align: center; */
+  justify-content: center;
+  background-blend-mode: multiply;
+}
 
-  background-image: url(../../../images/cyborgburger2.jpg);
-  background-repeat: repeat-x;
-} */
+.display-4, .lead {
+  background-color:rgba(255, 255, 255, 0.5)
+}
 
 li {
   padding: 5px;
@@ -25,7 +34,7 @@ li {
 }
 
 #inputforburger {
-  text-align: center;
+  justify-content: center;
 }
 
 h1 {
@@ -40,3 +49,6 @@ h5, p, li, .form-group, .btn {
   font-family: 'Gruppo', cursive;
 }
 
+body{
+  background-color: white;
+}
