@@ -1,7 +1,11 @@
+.jumbotron {
+  background-image: url("../../../images/cyborgburger2.png")
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  background: lightblue;
 }
 
 .label {
@@ -21,3 +25,16 @@ li {
 #inputforburger {
   text-align: center;
 }
+
+h1 {
+  font-family: 'Audiowide', cursive;
+}
+
+h2, .lead {
+  font-family: 'Chakra Petch', sans-serif;
+}
+
+h5, p, li, .form-group, .btn {
+  font-family: 'Gruppo', cursive;
+}
+
