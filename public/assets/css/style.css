@@ -1,6 +1,8 @@
-.jumbotron {
-  background-image: url("../../../images/cyborgburger2.png")
-}
+/* .jumbotron, .jumbotron-fluid {
+
+  background-image: url(../../../images/cyborgburger2.jpg);
+  background-repeat: repeat-x;
+} */
 
 li {
   padding: 5px;
