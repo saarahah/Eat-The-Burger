@@ -33,9 +33,7 @@ li {
   margin-bottom: 5px;
 }
 
-#inputforburger {
-  justify-content: center;
-}
+
 
 h1 {
   font-family: 'Audiowide', cursive;
@@ -51,4 +49,10 @@ h5, p, li, .form-group, .btn {
 
 body{
   background-color: white;
+}
+
+#inputforburger, #form {
+  justify-content: center;
+  /* text-align: center; */
+  margin: auto;
 }
