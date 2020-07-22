@@ -23,6 +23,14 @@ In order to install the app on your own machine to run as local host you must np
 
 For future cyborgs who need to feed on data rather than food. It is a "restaurant" app that lets cyborgs input their cyburger of choice (that pun though). Since humans of the future may reside in the cloud they may need food options that are non-tangible. This website gives them that option. 
 
+Whenever a cyborg submits a cyburger's name, the app will display the burger on the left side of the page -- waiting to be consumed with emotional detachment.
+
+Each cyburger in the waiting area also has an EAT button. When the user clicks it, the cyburger will move to the right side of the page.
+
+Cyburger app will store every burger in a database, whether devoured or not. Cyburger will accept all your data.
+
+You can delete the cyburger, but it will always remain. 
+
  ## License
   
 This project is licensed under none.
