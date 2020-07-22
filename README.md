@@ -21,7 +21,7 @@ In order to install the app on your own machine to run as local host you must np
 
 ## Business Context
 
-For future cyborgs who need to feed on data rather than food. 
+For future cyborgs who need to feed on data rather than food. It is a "restaurant" app that lets cyborgs input their cyburger of choice (that pun though). Since humans of the future may reside in the cloud they may need food options that are non-tangible. This website gives them that option. 
 
  ## License
   
