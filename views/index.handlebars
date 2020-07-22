@@ -13,7 +13,9 @@
 <ol>
   {{#each burgers}}
     {{#unless devoured}}
-      {{> burgers/burger-block devour=true}}
+    <li>
+      {{burger_name}}
+      </li>
     {{/unless}}
   {{/each}}
 </ol>
