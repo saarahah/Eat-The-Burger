@@ -1,4 +1,4 @@
-# Eat-The-Burger
+# The Cyburger
 
 ![image](public/assets/css/images/jumbocyberg.jpg)
 
