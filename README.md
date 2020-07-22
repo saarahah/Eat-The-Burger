@@ -1,8 +1,9 @@
 # Eat-The-Burger
 
+![image](public/assets/css/images/jumbocyberg.jpg)
+
 In this assignment, I created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. I followed the MVC design pattern, and used Node/MySQL to query and route data in my app. Handlebars was used to generate HTML.
 
-![image](public/assets/css/images/buginator.gif)
 
  ## Table of Contents 
   
@@ -32,7 +33,7 @@ No contributors.
 
 ## Screenshots
 
-![image](image/workingapp.gif)
+![image](public/assets/css/images/buginator.gif)
 
  ## Questions
 
